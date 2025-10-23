@@ -1,0 +1,44 @@
+[
+  {
+    "name": "19-09-2025 — Menthe citron vert + Pamplemousse",
+    "ts": "2025-09-24T13:36:38Z",
+    "payload": {
+      "semaine_du": "2025-09-19",
+      "ddm": "2026-09-19",
+      "gouts": [
+        "Menthe citron vert",
+        "Pamplemousse"
+      ],
+      "df_min": "{\"columns\":[\"GoutCanon\",\"Produit\",\"Stock\",\"Cartons \\u00e0 produire (arrondi)\",\"Bouteilles \\u00e0 produire (arrondi)\",\"Volume produit arrondi (hL)\"],\"index\":[0,1,2,3,4],\"data\":[[\"Menthe citron vert\",\"K\\u00e9fir menthe citron vert\",\"Carton de 12 Bouteilles - 0.33L\",359,4308,14.2164],[\"Menthe citron vert\",\"K\\u00e9fir menthe citron vert\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",192,1152,8.64],[\"Menthe citron vert\",\"K\\u00e9fir menthe citron vert\",\"Pack de 4 Bouteilles 75cl SAFT - 0.75L\",601,2404,18.03],[\"Pamplemousse\",\"K\\u00e9fir Pamplemousse\",\"Carton de 12 Bouteilles - 0.33L\",392,4704,15.5232],[\"Pamplemousse\",\"K\\u00e9fir Pamplemousse\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",169,1014,7.605]]}",
+      "df_calc": "{\"columns\":[\"Produit\",\"GoutCanon\",\"Stock\",\"Quantit\\u00e9 vendue\",\"Volume vendu (hl)\",\"Quantit\\u00e9 disponible\",\"Volume disponible (hl)\",\"Bouteilles\\/carton\",\"Volume bouteille (L)\",\"Volume\\/carton (hL)\",\"v_i\",\"G_i (hL)\",\"X_adj (hL)\",\"Cartons \\u00e0 produire (exact)\",\"Cartons \\u00e0 produire (arrondi)\",\"Volume produit arrondi (hL)\",\"Bouteilles \\u00e0 produire (exact)\",\"Bouteilles \\u00e0 produire (arrondi)\"],\"index\":[3,4,5,6,7],\"data\":[[\"K\\u00e9fir menthe citron vert\",\"Menthe citron vert\",\"Pack de 4 Bouteilles 75cl SAFT - 0.75L\",2568,77.04,145.0,4.35,4.0,0.75,0.03,0.8465934066,4.35,18.0349816081,601.1660536043,601,18.03,2404.6642144173,2404],[\"K\\u00e9fir menthe citron vert\",\"Menthe citron vert\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",702,31.59,12.0,0.54,6.0,0.75,0.045,0.3471428571,0.54,8.6388884865,191.9752997003,192,8.64,1151.8517982015,1152],[\"K\\u00e9fir menthe citron vert\",\"Menthe citron vert\",\"Carton de 12 Bouteilles - 0.33L\",2096,83.0,250.0,9.9,12.0,0.33,0.0396,0.9120879121,9.9,14.2167377138,359.0085281275,359,14.2164,4308.1023375295,4308],[\"K\\u00e9fir Pamplemousse\",\"Pamplemousse\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",570,25.65,12.0,0.54,6.0,0.75,0.045,0.2818681319,0.54,7.5835402559,168.5231167974,169,7.605,1011.1387007846,1014],[\"K\\u00e9fir Pamplemousse\",\"Pamplemousse\",\"Carton de 12 Bouteilles - 0.33L\",2087,82.65,269.0,10.65,12.0,0.33,0.0396,0.9082417582,10.65,15.5258519356,392.0669680714,392,15.5232,4704.8036168567,4704]]}"
+    }
+  },
+  {
+    "name": "26-09-2025 — Infusion Mélisse + Infusion probiotique menthe poivrée",
+    "ts": "2025-09-25T08:53:30Z",
+    "payload": {
+      "semaine_du": "2025-09-26",
+      "ddm": "2026-09-26",
+      "gouts": [
+        "Infusion Mélisse",
+        "Infusion probiotique menthe poivrée"
+      ],
+      "df_min": "{\"columns\":[\"GoutCanon\",\"Produit\",\"Stock\",\"Cartons \\u00e0 produire (arrondi)\",\"Bouteilles \\u00e0 produire (arrondi)\",\"Volume produit arrondi (hL)\"],\"index\":[0,1],\"data\":[[\"Infusion M\\u00e9lisse\",\"Infusion probiotique M\\u00e9lisse\",\"Carton de 12 Bouteilles - 0.33L\",638,7656,25.2648],[\"Infusion probiotique menthe poivr\\u00e9e\",\"Infusion probiotique menthe poivr\\u00e9e\",\"Carton de 12 Bouteilles - 0.33L\",978,11736,38.7288]]}",
+      "df_calc": "{\"columns\":[\"Produit\",\"GoutCanon\",\"Stock\",\"Quantit\\u00e9 vendue\",\"Volume vendu (hl)\",\"Quantit\\u00e9 disponible\",\"Volume disponible (hl)\",\"Bouteilles\\/carton\",\"Volume bouteille (L)\",\"Volume\\/carton (hL)\",\"v_i\",\"G_i (hL)\",\"X_adj (hL)\",\"Cartons \\u00e0 produire (exact)\",\"Cartons \\u00e0 produire (arrondi)\",\"Volume produit arrondi (hL)\",\"Bouteilles \\u00e0 produire (exact)\",\"Bouteilles \\u00e0 produire (arrondi)\"],\"index\":[9,10],\"data\":[[\"Infusion probiotique menthe poivr\\u00e9e\",\"Infusion probiotique menthe poivr\\u00e9e\",\"Carton de 12 Bouteilles - 0.33L\",1954,77.38,49.0,1.94,12.0,0.33,0.0396,0.8503296703,1.94,38.7414534929,978.3195326495,978,38.7288,11739.834391794,11736],[\"Infusion probiotique M\\u00e9lisse\",\"Infusion M\\u00e9lisse\",\"Carton de 12 Bouteilles - 0.33L\",1274,50.45,34.0,1.35,12.0,0.33,0.0396,0.5543956044,1.35,25.2585465071,637.8420835121,638,25.2648,7654.1050021454,7656]]}"
+    }
+  },
+  {
+    "name": "03-10-2025 — Gingembre + Mangue Passion",
+    "ts": "2025-10-02T07:56:32Z",
+    "payload": {
+      "semaine_du": "2025-10-03",
+      "ddm": "2026-10-03",
+      "gouts": [
+        "Gingembre",
+        "Mangue Passion"
+      ],
+      "df_min": "{\"columns\":[\"GoutCanon\",\"Produit\",\"Stock\",\"Cartons \\u00e0 produire (arrondi)\",\"Bouteilles \\u00e0 produire (arrondi)\",\"Volume produit arrondi (hL)\"],\"index\":[0,1,2,3,4,5,6],\"data\":[[\"Gingembre\",\"K\\u00e9fir Gingembre\",\"Carton de 12 Bouteilles - 0.33L\",327,3924,12.9492],[\"Gingembre\",\"K\\u00e9fir Gingembre\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",135,810,6.075],[\"Gingembre\",\"K\\u00e9fir Gingembre\",\"Pack de 4 Bouteilles 75cl SAFT - 0.75L\",275,1100,8.25],[\"Mangue Passion\",\"K\\u00e9fir Mangue Passion\",\"Carton de 12 Bouteilles - 0.33L\",400,4800,15.84],[\"Mangue Passion\",\"K\\u00e9fir Mangue Passion\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",188,1128,8.46],[\"Mangue Passion\",\"K\\u00e9fir Mangue Passion\",\"Pack de 4 Bouteilles 75cl SAFT - 0.75L\",415,1660,12.45],[\"Mangue Passion\",\"Water kefir Mango Passion\",\"Carton de 12 Bouteilles - 0.33L\",0,0,0.0]]}",
+      "df_calc": "{\"columns\":[\"Produit\",\"GoutCanon\",\"Stock\",\"Quantit\\u00e9 vendue\",\"Volume vendu (hl)\",\"Quantit\\u00e9 disponible\",\"Volume disponible (hl)\",\"Bouteilles\\/carton\",\"Volume bouteille (L)\",\"Volume\\/carton (hL)\",\"v_i\",\"G_i (hL)\",\"X_adj (hL)\",\"Cartons \\u00e0 produire (exact)\",\"Cartons \\u00e0 produire (arrondi)\",\"Volume produit arrondi (hL)\",\"Bouteilles \\u00e0 produire (exact)\",\"Bouteilles \\u00e0 produire (arrondi)\"],\"index\":[0,1,2,11,12,13,19],\"data\":[[\"K\\u00e9fir Mangue Passion\",\"Mangue Passion\",\"Pack de 4 Bouteilles 75cl SAFT - 0.75L\",2340,70.2,518.0,15.54,4.0,0.75,0.03,0.7714285714,15.54,12.4503444965,415.0114832151,415,12.45,1660.0459328605,1660],[\"K\\u00e9fir Mangue Passion\",\"Mangue Passion\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",1046,47.07,150.0,6.75,6.0,0.75,0.045,0.5172527473,6.75,8.4597804167,187.9951203716,188,8.46,1127.9707222295,1128],[\"K\\u00e9fir Mangue Passion\",\"Mangue Passion\",\"Carton de 12 Bouteilles - 0.33L\",2263,89.61,534.0,21.15,12.0,0.33,0.0396,0.9847252747,21.15,15.8528513928,400.3245301204,400,15.84,4803.8943614454,4800],[\"K\\u00e9fir Gingembre\",\"Gingembre\",\"Pack de 4 Bouteilles 75cl SAFT - 0.75L\",1551,46.53,273.0,8.19,4.0,0.75,0.03,0.5113186813,8.19,8.249274028,274.9758009343,275,8.25,1099.9032037372,1100],[\"K\\u00e9fir Gingembre\",\"Gingembre\",\"Carton de 6 Bouteilles 75cl Verralia - 0.75L\",616,27.72,83.0,3.74,6.0,0.75,0.045,0.3046153846,3.74,6.0536100593,134.5246679834,135,6.075,807.1480079002,810],[\"K\\u00e9fir Gingembre\",\"Gingembre\",\"Carton de 12 Bouteilles - 0.33L\",2003,79.32,381.0,15.09,12.0,0.33,0.0396,0.8716483516,15.09,12.9341396068,326.6196870398,327,12.9492,3919.4362444774,3924],[\"Water kefir Mango Passion\",\"Mangue Passion\",\"Carton de 12 Bouteilles - 0.33L\",10,0.4,61.0,2.42,12.0,0.33,0.0396,0.0043956044,2.42,0.0,0.0,0,0.0,0.0,0]]}"
+    }
+  }
+]

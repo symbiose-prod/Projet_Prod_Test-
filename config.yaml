@@ -1,0 +1,5 @@
+data_files:
+  main_table: "data/production.xlsx"   # table source
+  flavor_map: "data/flavor_map.csv"    # mapping nom → goût canonique
+images_dir: "assets"                   # dossier des visuels produit
+
